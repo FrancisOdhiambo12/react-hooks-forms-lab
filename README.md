@@ -1,4 +1,4 @@
-# React Controlled Components Lab
+i# React Controlled Components Lab
 
 ## Learning Goals
 
